@@ -69,7 +69,7 @@ npx hardhat test
 ## Resources
 
 - [Official Fiboard Website](https://fiboard.org/)
-- [White Paper Fiboard Project](https://github.com/AliAkrami1375/FBDtoken/blob/main/FBD-WP-final.pdf)
+- [White Paper Fiboard Project](FBD-WP-final.pdf)
 - [X Account Fiboard](https://x.com/FBDtoken)
 - [Linkdin Account Fiboard](https://www.linkedin.com/company/fbd-foundation/)
 - [ByBit Event](https://www.youtube.com/shorts/UfNhDbusZPY)
