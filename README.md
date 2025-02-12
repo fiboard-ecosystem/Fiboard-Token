@@ -1,13 +1,20 @@
 # Fiboard Token
 ![SnapShot Fiboard Project](files/fiboard_snappshot.png)
 ![Logo Fiboard](files/fiboard.svg)
-Fiboard is a token built on the Binance Smart Chain (BNB), developed using Solidity and managed with Hardhat for smart contract deployment and testing.
+## JOIN THE PRESALE
+Powering sustainable growth with Real-world Asset tokenization
+FBD was born through the tokenization of Fiboard, an innovative and sustainable construction material. 21% of the annual profit from Fiboard factories is used to purchase.
+[Fiboard PRESALE](https://fiboard.org/)
 
-
+## Video Fiboard
 ![video FBD](files/fbd.mp4)
 
 # Bybit Event
 ![Bybit Event Fiboard](https://www.youtube.com/shorts/UfNhDbusZPY)
+
+## Details This Project
+Fiboard is a token built on the Binance Smart Chain (BNB), developed using Solidity and managed with Hardhat for smart contract deployment and testing.
+
 
 ## Features
 
