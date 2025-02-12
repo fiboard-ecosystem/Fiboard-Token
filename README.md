@@ -1,5 +1,6 @@
 # Fiboard Token
-![alt text](https://dibachain.com/fiboard.svg)
+![alt text](https://dibachain.com/fiboard_snappshot.png)
+![Logo Fiboard](https://dibachain.com/fiboard.svg)
 Fiboard is a token built on the Binance Smart Chain (BNB), developed using Solidity and managed with Hardhat for smart contract deployment and testing.
 
 ## Features
