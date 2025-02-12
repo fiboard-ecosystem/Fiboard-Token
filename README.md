@@ -1,7 +1,9 @@
 # Fiboard Token
 ![SnapShot Fiboard Project](files/fiboard_snappshot.png)
-![Logo Fiboard](files/fiboard.svg)
-## JOIN THE PRESALE
+
+
+
+## ![Logo Fiboard](files/fiboard.svg) JOIN THE PRESALE
 Powering sustainable growth with Real-world Asset tokenization
 FBD was born through the tokenization of Fiboard, an innovative and sustainable construction material. 21% of the annual profit from Fiboard factories is used to purchase.
 [Fiboard PRESALE](https://fiboard.org/)
