@@ -5,6 +5,7 @@ Fiboard is a token built on the Binance Smart Chain (BNB), developed using Solid
 
 
 ![video FBD](files/fbd.mp4)
+
 # Bybit Event
 ![Bybit Event Fiboard](https://www.youtube.com/shorts/UfNhDbusZPY)
 
@@ -79,6 +80,3 @@ npx hardhat test
 
 Contributions are welcome! Please open an Issue before submitting a Pull Request to discuss proposed changes.
 
-## License
-
-This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
