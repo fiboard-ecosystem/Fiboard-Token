@@ -63,6 +63,7 @@ npx hardhat test
 ## Resources
 
 - [Official Fiboard Website](https://fiboard.org/)
+- [White Paper Fiboard Project](https://github.com/AliAkrami1375/FBDtoken/blob/main/FBD-WP-final.pdf)
 - [Hardhat Documentation](https://hardhat.org/getting-started/)
 
 ## Contribution
