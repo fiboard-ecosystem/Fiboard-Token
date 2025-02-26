@@ -17,6 +17,9 @@ FBD was born through the tokenization of Fiboard, an innovative and sustainable 
 ## Details This Project
 Fiboard is a token built on the Binance Smart Chain (BNB), developed using Solidity and managed with Hardhat for smart contract deployment and testing.
 
+Smart Contract Address (BSC): `0xAf56f509c70e7BE5BEc01f308E3B550e78157285`
+[Link BSC](https://bscscan.com/address/0xAf56f509c70e7BE5BEc01f308E3B550e78157285)
+
 
 ## Features
 
@@ -79,13 +82,12 @@ npx hardhat test
 ## Resources
 
 - [Official Fiboard Website](https://fiboard.org/)
-- [White Paper Fiboard Project](FBD-WP-final.pdf)
+- [White Paper Fiboard Project](files/FBD-WP-final.pdf)
 - [X Account Fiboard](https://x.com/FBDtoken)
 - [Linkdin Account Fiboard](https://www.linkedin.com/company/fbd-foundation/)
 - [ByBit Event](https://www.youtube.com/shorts/UfNhDbusZPY)
 - [Hardhat Documentation](https://hardhat.org/getting-started/)
 
-## Contribution
-
-Contributions are welcome! Please open an Issue before submitting a Pull Request to discuss proposed changes.
+## License
+Fiboard
 
