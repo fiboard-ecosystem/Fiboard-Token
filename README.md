@@ -14,6 +14,9 @@ FBD was born through the tokenization of Fiboard, an innovative and sustainable 
 # Bybit Event
 ![Bybit Event Fiboard](https://www.youtube.com/shorts/UfNhDbusZPY)
 
+# Bitcoin MENA Event
+![Bitcoin MENA Event](https://youtu.be/gJFLXhtjEn8?si=Dlh6lyEBCifTzZCL)
+
 ## Details This Project
 Fiboard is a token built on the Binance Smart Chain (BNB), developed using Solidity and managed with Hardhat for smart contract deployment and testing.
 
@@ -82,12 +85,12 @@ npx hardhat test
 ## Resources
 
 - [Official Fiboard Website](https://fiboard.org/)
-- [White Paper Fiboard Project](files/FBD-WP-final.pdf)
 - [X Account Fiboard](https://x.com/FBDtoken)
+- [Youtube Fiboard](https://www.youtube.com/@FBDToken)
 - [Linkdin Account Fiboard](https://www.linkedin.com/company/fbd-foundation/)
 - [ByBit Event](https://www.youtube.com/shorts/UfNhDbusZPY)
+- [Bitcoin MENA Event](https://youtu.be/gJFLXhtjEn8?si=Dlh6lyEBCifTzZCL)
 - [Hardhat Documentation](https://hardhat.org/getting-started/)
 
 ## License
 Fiboard
-
