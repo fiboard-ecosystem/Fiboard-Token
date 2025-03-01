@@ -9,7 +9,7 @@ FBD was born through the tokenization of Fiboard, an innovative and sustainable 
 [Fiboard PRESALE](https://fiboard.org/)
 
 ## Video Fiboard
-![video FBD](files/fbd.mp4)
+[![How To Buy Fiboard Token](https://img.youtube.com/vi/Ay0KmGiA0cY/0.jpg)](https://www.youtube.com/watch?v=Ay0KmGiA0cY)
 
 # Bitcoin MENA Event
 [![Bitcoin MENA Event](https://img.youtube.com/vi/gJFLXhtjEn8/0.jpg)](https://youtu.be/gJFLXhtjEn8?si=Dlh6lyEBCifTzZCL)
