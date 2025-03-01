@@ -85,7 +85,6 @@ npx hardhat test
 - [X Account Fiboard](https://x.com/FBDtoken)
 - [Youtube Fiboard](https://www.youtube.com/@FBDToken)
 - [Linkdin Account Fiboard](https://www.linkedin.com/company/fbd-foundation/)
-- [ByBit Event](https://www.youtube.com/shorts/UfNhDbusZPY)
 - [Bitcoin MENA Event](https://youtu.be/gJFLXhtjEn8?si=Dlh6lyEBCifTzZCL)
 - [Hardhat Documentation](https://hardhat.org/getting-started/)
 
