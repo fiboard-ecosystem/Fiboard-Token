@@ -1,10 +1,9 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.20;
+pragma solidity ^0.8.24;
 
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
-import "@openzeppelin/contracts/access/Ownable.sol";
 
-contract Fiboard is ERC20, Ownable {
+contract Fiboard is ERC20 {
     uint8 private constant _decimals = 6;
     uint256 private constant TOTAL_SUPPLY = 10_000_000_000 * 10**_decimals;
 
@@ -38,7 +37,7 @@ contract Fiboard is ERC20, Ownable {
     mapping(uint256 => TransferRequest) public transferRequests;
     uint256 public requestCount;
 
-    constructor() ERC20("Fiboard", "FBD") Ownable(msg.sender) {
+    constructor() ERC20("Fiboard", "FBD") {
         _mint(PRIVATE_SALE, (TOTAL_SUPPLY * 3) / 100);
         _mint(STRATEGIC_SALE, (TOTAL_SUPPLY * 2) / 100);
         _mint(OPERATION, (TOTAL_SUPPLY * 6) / 100);
@@ -59,6 +58,7 @@ contract Fiboard is ERC20, Ownable {
     function enableMultiSig(address[] memory _signers, uint256 _required) external {
         require(!isMultiSigEnabled[msg.sender], "Already enabled");
         require(_signers.length >= _required, "Signers less than required");
+        require(_signers.length > 1, "Signers less than 1");
         require(_required > 0, "At least 1 signer required");
 
         isMultiSigEnabled[msg.sender] = true;
