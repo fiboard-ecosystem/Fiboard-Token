@@ -8,17 +8,17 @@ contract Fiboard is ERC20 {
     uint256 private constant TOTAL_SUPPLY = 10_000_000_000 * 10**_decimals;
 
     // Addresses
-    address public constant PRIVATE_SALE = 0x75bFE29AA774AB1c50aA1586F5F72ed387f0C998;
-    address public constant STRATEGIC_SALE = 0xB264cE0DE816772Aa42D86138D190a57Eee44c57;
-    address public constant OPERATION = 0x510668C9e44ce72fd86f5Dd2A9501d24921cBfE4;
-    address public constant ECOSYSTEM_DEV = 0x1B6505D3d4868E446f57Fa561fABCa0b8Bad61bd;
-    address public constant KOLS_PARTNERSHIPS = 0xb4669f1c77BffFE45212Ddfc0D759D7bF1E5b20e;
-    address public constant TEAM_ADVISORS = 0xf2E1A404B3aD8531b4B17f4B11aC4347C65C2A5D;
-    address public constant STAKING_REWARDS = 0xCe2e33E270B618C8A4505387dC597cBD51eeb3b0;
-    address public constant LIQUIDITY_RESERVE = 0x20Ff67b5a2C46324983E0ae5A58970A78e8161ec;
-    address public constant MARKETING_COMMUNITY = 0x7Cc3cC838eB1a4A089E0928dB7aa63E211b33150;
-    address public constant FACTORIES_DEV = 0x9c0ce199f99FA3c3358e614E8276b302bFCCBA19;
-    address public constant PUBLIC_SALE = 0x45eAb3cda1960Bef80bE144db236CDb7558fdE83;
+    address public constant PRIVATE_SALE = 0xd51d414a4f8d25b9Bd68474b3863E5f69E6e68aA;
+    address public constant STRATEGIC_SALE = 0xE41Ec92f244Ea135E31Bb46820F645763d3d009D;
+    address public constant OPERATION = 0x783A7dffC5956216895A40D732bB1fbbe8754961;
+    address public constant ECOSYSTEM_DEV = 0x44490DD8064A031Cf6D3B45C10f2d82d53F254b9;
+    address public constant KOLS_PARTNERSHIPS = 0x43D01407CaF638276319c35975183DCEC1a87F49;
+    address public constant TEAM_ADVISORS = 0x48A2441bfB0315b1325960E8adB94e5C9Ae6aC37;
+    address public constant STAKING_REWARDS = 0x4e88d3F06606135A85bE1E8946E8344Ee0D9Ac2C;
+    address public constant LIQUIDITY_RESERVE = 0xEc7341c1366909478a26A0c012FdEE5FDe679F9e;
+    address public constant MARKETING_COMMUNITY = 0x5B618b706665F3B483749f73d16584c153D95f17;
+    address public constant FACTORIES_DEV = 0xE1C0886f63a6b4A45eee91Fefa0e08E89bFe568A;
+    address public constant PUBLIC_SALE = 0xc07d3D54f6F972Ecd2A9a462cD5D31647d99Dd93;
 
     // MultiSig
     mapping(address => bool) public isMultiSigEnabled;
